@@ -1,2 +1,1 @@
-# visualizing-taylor-series
-Visualizing basic Taylor Series.
+# Visualizing Taylor Series

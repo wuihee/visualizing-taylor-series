@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "visualizing-taylor-series"
+version = "0.1.0"
+description = "Visualizing basic Taylor Series."
+authors = ["wuihee <wuihee@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.4"
+matplotlib = "^3.9.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
